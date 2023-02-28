@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7ee06bf9-e262-4be9-be56-a123b69bc64a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../note/.gitTeam.md.swp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/login/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/login/migrations/0001_initial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/login/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/login/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/middleware/auth.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/static/font/Monaco.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/static/plugins/bootstrap-3.4.1-dist/css/bootstrap-theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/static/plugins/bootstrap-3.4.1-dist/css/bootstrap-theme.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/static/plugins/bootstrap-3.4.1-dist/css/bootstrap-theme.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/static/plugins/bootstrap-3.4.1-dist/css/bootstrap-theme.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/static/plugins/bootstrap-3.4.1-dist/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/static/plugins/bootstrap-3.4.1-dist/css/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/static/plugins/bootstrap-3.4.1-dist/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/static/plugins/bootstrap-3.4.1-dist/css/bootstrap.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/static/plugins/bootstrap-3.4.1-dist/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/static/plugins/bootstrap-3.4.1-dist/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/static/plugins/bootstrap-3.4.1-dist/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/static/plugins/bootstrap-3.4.1-dist/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/static/plugins/bootstrap-3.4.1-dist/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/static/plugins/bootstrap-3.4.1-dist/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/static/plugins/bootstrap-3.4.1-dist/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/static/plugins/bootstrap-3.4.1-dist/js/npm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.standalone.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.standalone.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.standalone.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/static/plugins/bootstrap-datepicker/css/bootstrap-datepicker3.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/static/plugins/bootstrap-datepicker/css/bootstrap-datepicker3.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/static/plugins/bootstrap-datepicker/css/bootstrap-datepicker3.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/static/plugins/bootstrap-datepicker/css/bootstrap-datepicker3.standalone.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/static/plugins/bootstrap-datepicker/css/bootstrap-datepicker3.standalone.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/static/plugins/bootstrap-datepicker/css/bootstrap-datepicker3.standalone.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker-en-CA.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.ar-tn.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.ar.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.az.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.bm.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.bn.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.br.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.bs.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.ca.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.cs.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.cy.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.da.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.de.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.el.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.en-AU.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.en-CA.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.en-GB.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.en-IE.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.en-NZ.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.en-ZA.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.es.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.et.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.eu.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.fa.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.fi.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.fo.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.fr-CH.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.fr.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.gl.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.he.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.hi.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.hr.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.hu.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.hy.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.id.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.is.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.it-CH.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.it.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.ja.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.ka.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.kh.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.kk.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.km.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.ko.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.kr.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.lt.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.me.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.mk.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.mn.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.ms.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.nl-BE.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.nl.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.no.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.oc.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.pt-BR.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.pt.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.ro.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.rs-latin.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.rs.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.ru.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.si.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.sk.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.sl.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.sq.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.sr-latin.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.sr.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.sv.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.sw.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.ta.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.th.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.tk.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.tr.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.uk.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.uz-cyrl.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.vi.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-TW.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/templates/change.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/templates/gamekeeper_list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/templates/layout.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/templates/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/templates/permission.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/templates/register.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/templates/user_list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/utils/bootstrap.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/utils/code.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/utils/encrypt.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/utils/form.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/utils/pagination.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/views/gamekeeper.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/views/login_management.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/views/user.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2LpKczGRW0SKSBZWCUFM4Qz1YGZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/kristin/study/exeter/y2term2/groupProj/ECM2434/src/login",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/login" />
+      <recent name="$PROJECT_DIR$/accounts" />
+      <recent name="$PROJECT_DIR$/permission/templates" />
+      <recent name="$PROJECT_DIR$/permission/utils" />
+      <recent name="$PROJECT_DIR$/management" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/permission/templates/registration" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="src" type="Python.DjangoServer" factoryName="Django server">
+      <module name="src" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="ECM2434.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7ee06bf9-e262-4be9-be56-a123b69bc64a" name="Changes" comment="" />
+      <created>1676562667843</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676562667843</updated>
+      <workItem from="1676562668981" duration="24000" />
+      <workItem from="1677065595295" duration="32499000" />
+      <workItem from="1677195850900" duration="238000" />
+      <workItem from="1677228881599" duration="13947000" />
+      <workItem from="1677402940588" duration="6299000" />
+      <workItem from="1677428641192" duration="8146000" />
+      <workItem from="1677441329932" duration="13747000" />
+      <workItem from="1677485014026" duration="11263000" />
+      <workItem from="1677519549556" duration="17931000" />
+      <workItem from="1677569956321" duration="7854000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

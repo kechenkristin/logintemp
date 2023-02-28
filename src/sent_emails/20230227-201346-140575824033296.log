@@ -1,0 +1,25 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Subject: Password reset on 127.0.0.1:8000
+From: webmaster@localhost
+To: kechenkristin@gmail.com
+Date: Mon, 27 Feb 2023 20:13:46 -0000
+Message-ID: <167752882644.10013.2061066412380479414@kristin-PC>
+
+
+You're receiving this email because you requested a password reset for your user account at 127.0.0.1:8000.
+
+Please go to the following page and choose a new password:
+
+http://127.0.0.1:8000/accounts/reset/MQ/bkaquy-ea91d78f37844f72d32b22b5a976a263/
+
+Your username, in case you’ve forgotten: kristin
+
+Thanks for using our site!
+
+The 127.0.0.1:8000 team
+
+
+
+-------------------------------------------------------------------------------
